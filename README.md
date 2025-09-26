@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sorfebyorke?theme=light&font=Anonymous%20Pro" alt="LeetCode Stats">
-</p>
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./totoro-transparent.gif">
+    <source media="(prefers-color-scheme: light)" srcset="/totoro-transparent.gif">
+    <img alt="GIFOS" src="output.gif">
+</picture>
